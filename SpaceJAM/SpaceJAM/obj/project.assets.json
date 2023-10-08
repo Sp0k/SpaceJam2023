@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\macke\\.nuget\\packages\\": {}
+    "C:\\Users\\aryub\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\SpaceJAM\\SpaceJam2023\\SpaceJAM\\SpaceJAM\\SpaceJAM.csproj",
+      "projectUniqueName": "C:\\Users\\aryub\\Source\\Repos\\SpaceJam2023\\SpaceJAM\\SpaceJAM\\SpaceJAM.csproj",
       "projectName": "SpaceJAM",
-      "projectPath": "C:\\Projects\\SpaceJAM\\SpaceJam2023\\SpaceJAM\\SpaceJAM\\SpaceJAM.csproj",
-      "packagesPath": "C:\\Users\\macke\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\SpaceJAM\\SpaceJam2023\\SpaceJAM\\SpaceJAM\\obj\\",
+      "projectPath": "C:\\Users\\aryub\\Source\\Repos\\SpaceJam2023\\SpaceJAM\\SpaceJAM\\SpaceJAM.csproj",
+      "packagesPath": "C:\\Users\\aryub\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aryub\\Source\\Repos\\SpaceJam2023\\SpaceJAM\\SpaceJAM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\macke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aryub\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
